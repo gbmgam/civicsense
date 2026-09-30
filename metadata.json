@@ -1,0 +1,6 @@
+{
+  "name": "CivicGuide",
+  "description": "Find the right service. Find the right office. Get there with confidence. Navigate government services from knowing what you need to knowing exactly where to go.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
